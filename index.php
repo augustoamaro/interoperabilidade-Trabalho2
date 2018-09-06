@@ -69,9 +69,13 @@ foreach($semestre->disciplina as $disciplina) { ?>
 		<div class="show-for-medium">
 		<a class="primary button" href="add.php"><i class="fa fa-plus"></i> Adicionar disciplina</a>
 		</div>
+
+        <div class="show-for-medium">
+		<a class="primary button" href="loader.php"><i class="fa fa-plus"></i> Adcionar XML</a>
+		</div>
 		
 		<div class="show-for-small-only">
-			<a class="small button"><i class="fa fa-plus"></i>Add</a>
+			<a class="small button"><i class="fa fa-plus"></i>Adicionar disciplina</a>
 			
 		</div>
 </div>

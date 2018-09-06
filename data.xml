@@ -1,22 +1,53 @@
-<?xml version="1.0"?>
 <semestre>
-
-	
- 
-
-        <disciplina id="Sociedade, &#xC9;tica e Meio Ambiente">
-          <codigo>0005</codigo>
-          <creditos>02</creditos>
-          <professor>Jos&#xE9; da Silva</professor>
+<disciplina id="Design de interfaces">
+          <codigo>0001</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
           <sala>109</sala>
           <requisito>N/A</requisito>
           <descricao>Alguma coisa sobre a materia</descricao>
         </disciplina>
-      
+
+        <disciplina id="Introdução à Sistemas para Internet">
+          <codigo>0002</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Lógica e programação">
+          <codigo>0003</codigo>
+          <creditos>08</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Inovação Tecnológica">
+          <codigo>0004</codigo>
+          <creditos>02</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Sociedade, Ética e Meio Ambiente">
+          <codigo>0005</codigo>
+          <creditos>02</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+     
         <disciplina id="Banco de Dados I ">
           <codigo>0006</codigo>
           <creditos>04</creditos>
-          <professor>Jos&#xE9; da Silva</professor>
+          <professor>José da Silva</professor>
           <sala>109</sala>
           <requisito>N/A</requisito>
           <descricao>Alguma coisa sobre a materia</descricao>
@@ -25,25 +56,115 @@
         <disciplina id="Design de Interfaces II">
           <codigo>0007</codigo>
           <creditos>04</creditos>
-          <professor>Jos&#xE9; da Silva</professor>
+          <professor>José da Silva</professor>
           <sala>109</sala>
           <requisito>N/A</requisito>
           <descricao>Alguma coisa sobre a materia</descricao>
         </disciplina>
 
-        <disciplina id="Interoperabilidade de Aplica&#xE7;&#xF5;es">
+        <disciplina id="Programação Web">
+          <codigo>0008</codigo>
+          <creditos>08</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Sistemas Operacionais">
+          <codigo>0009</codigo>
+          <creditos>02</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+     
+        <disciplina id="Banco de Dados II">
+          <codigo>0010</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Engenharia de Software I ">
+          <codigo>0011</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="UX Design ">
+          <codigo>0012</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Programação Orientada a Objetos">
+          <codigo>0013</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Redes de Computadores">
+          <codigo>0014</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+     
+        <disciplina id="Administração de Sistemas e Redes">
+          <codigo>0015</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Empreendedorismo ">
+          <codigo>0016</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Engenharia de Software II">
+          <codigo>0017</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Interoperabilidade de Aplicações">
           <codigo>0018</codigo>
           <creditos>02</creditos>
-          <professor>Jos&#xE9; da Silva</professor>
+          <professor>José da Silva</professor>
           <sala>109</sala>
           <requisito>N/A</requisito>
           <descricao>Alguma coisa sobre a materia</descricao>
         </disciplina>
 
-        <disciplina id="Programa&#xE7;&#xE3;o para Dispositivos M&#xF3;veis I ">
+        <disciplina id="Programação para Dispositivos Móveis I ">  
           <codigo>0019</codigo>
           <creditos>04</creditos>
-          <professor>Jos&#xE9; da Silva</professor>
+          <professor>José da Silva</professor>
           <sala>109</sala>
           <requisito>N/A</requisito>
           <descricao>Alguma coisa sobre a materia</descricao>
@@ -52,26 +173,92 @@
         <disciplina id="Projeto Integrador I">
           <codigo>0020</codigo>
           <creditos>02</creditos>
-          <professor>Jos&#xE9; da Silva</professor>
+          <professor>José da Silva</professor>
           <sala>109</sala>
           <requisito>N/A</requisito>
           <descricao>Alguma coisa sobre a materia</descricao>
         </disciplina>
-      
-        
+    
+        <disciplina id="Gerência de Projetos">
+          <codigo>0021</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
 
-        
+        <disciplina id="Inteligência Artificial Aplicada">
+          <codigo>0022</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
 
-        
-      
+        <disciplina id="Programação para Dispositivos Móveis II">
+          <codigo>0023</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
 
-        
-      
-        
-        
+        <disciplina id="Tópicos Especiais"> 
+          <codigo>0024</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
 
-        
+        <disciplina id="Projeto Integrador II ">
+          <codigo>0025</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+    
+        <disciplina id="Internet das Coisas II">
+          <codigo>0026</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
 
-        
-	
+        <disciplina id="Segurança de Informações">
+          <codigo>0027</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Eletiva">
+          <codigo>0028</codigo>
+          <creditos>04</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Projeto de Graduação Integrado">
+          <codigo>0029</codigo>
+          <creditos>N/A</creditos>
+          <professor>José da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+       
 </semestre>
