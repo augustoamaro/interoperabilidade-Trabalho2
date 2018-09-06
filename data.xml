@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<semestre>
+
+	
+ 
+
+        <disciplina id="Sociedade, &#xC9;tica e Meio Ambiente">
+          <codigo>0005</codigo>
+          <creditos>02</creditos>
+          <professor>Jos&#xE9; da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+      
+        <disciplina id="Banco de Dados I ">
+          <codigo>0006</codigo>
+          <creditos>04</creditos>
+          <professor>Jos&#xE9; da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Design de Interfaces II">
+          <codigo>0007</codigo>
+          <creditos>04</creditos>
+          <professor>Jos&#xE9; da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Interoperabilidade de Aplica&#xE7;&#xF5;es">
+          <codigo>0018</codigo>
+          <creditos>02</creditos>
+          <professor>Jos&#xE9; da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Programa&#xE7;&#xE3;o para Dispositivos M&#xF3;veis I ">
+          <codigo>0019</codigo>
+          <creditos>04</creditos>
+          <professor>Jos&#xE9; da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+
+        <disciplina id="Projeto Integrador I">
+          <codigo>0020</codigo>
+          <creditos>02</creditos>
+          <professor>Jos&#xE9; da Silva</professor>
+          <sala>109</sala>
+          <requisito>N/A</requisito>
+          <descricao>Alguma coisa sobre a materia</descricao>
+        </disciplina>
+      
+        
+
+        
+
+        
+      
+
+        
+      
+        
+        
+
+        
+
+        
+	
+</semestre>
